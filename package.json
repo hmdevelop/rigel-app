@@ -1,12 +1,12 @@
 {
   "name": "rigel-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Very quickly create ueno apps",
   "contributors": [
     "Birkir Gudjonsson <birkir.gudjonsson@gmail.com>",
     "Jérémy Barbet <jeremgraph@gmail.com>"
   ],
-  "main": "index.js",
+  "main": "lib/index.js",
   "bin": {
     "rigel-app": "./bin/create-ueno-app"
   },
