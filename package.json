@@ -8,7 +8,7 @@
   ],
   "main": "index.js",
   "bin": {
-    "create-ueno-app": "./bin/create-ueno-app"
+    "rigel-app": "./bin/create-ueno-app"
   },
   "directories": {
     "lib": "lib"
