@@ -1,9 +1,6 @@
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
-<p><img src="https://firebasestorage.googleapis.com/v0/b/aaaasddsdsd.appspot.com/o/logo.png?alt=media&amp;token=92a6bbca-e2ae-48a6-824d-5d6cb43e8a7a" alt="" width="353" height="195" /></p>
-<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p>The easiest and fastest way to create new web projects with&nbsp;<code class="highlighter-rouge">next</code>,&nbsp;<code class="highlighter-rouge">create-react-app</code>&nbsp;and mobile projects with&nbsp;<code class="highlighter-rouge">react-native</code>.All of our starters kits are shipped with everything to ship rock solid apps.</p>
+<p><img src="https://firebasestorage.googleapis.com/v0/b/aaaasddsdsd.appspot.com/o/logo.png?alt=media&amp;token=92a6bbca-e2ae-48a6-824d-5d6cb43e8a7a" width="450" height="249" /></p>
+<p>&nbsp; &nbsp; &nbsp;The easiest and fastest way to create new web projects with&nbsp;<code class="highlighter-rouge">next</code>,&nbsp;<code class="highlighter-rouge">create-react-app</code>&nbsp;and mobile projects with&nbsp;<code class="highlighter-rouge">react-native</code>.All of our starters kits are shipped with everything to ship rock solid apps.</p>
 <ul>
 <li>Opinionated dependencies</li>
 <li>SASS and CSS modules</li>
