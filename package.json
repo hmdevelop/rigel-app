@@ -1,14 +1,13 @@
 {
-  "name": "rigel-app",
-  "version": "1.0.5",
-  "description": "Very quickly create ueno apps",
+  "name": "libra-app",
+  "version": "1.0.0",
+  "description": "Very quickly create libra apps",
   "contributors": [
-    "Birkir Gudjonsson <birkir.gudjonsson@gmail.com>",
-    "Jérémy Barbet <jeremgraph@gmail.com>"
+    "Mustafa Topal <mustafatopal2@gmail.com>"
   ],
   "main": "lib/index.js",
   "bin": {
-    "rigel-app": "./bin/create-ueno-app"
+    "libra-app": "./bin/create-ueno-app"
   },
   "directories": {
     "lib": "lib"
