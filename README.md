@@ -9,16 +9,16 @@
 <li>Code splitting</li>
 </ul>
 <h2 id="installation">Installation</h2>
-<p>We recommend you installing <code>rigel-app</code>&nbsp;globally:</p>
+<p>We recommend you installing <code>libra-app</code>&nbsp;globally:</p>
 <div class="language-bash highlighter-rouge">
 <div class="highlight">
-<pre class="highlight"><code>yarn global add rigel-app
+<pre class="highlight"><code>yarn global add libra-app
 </code></pre>
 </div>
 </div>
 <div class="language-bash highlighter-rouge">
 <div class="highlight">
-<pre class="highlight"><code>npm install <span class="nt">-g</span> rigel</code>-app</pre>
+<pre class="highlight"><code>npm install <span class="nt">-g</span> libra</code>-app</pre>
 </div>
 </div>
 <p>&nbsp; &nbsp;</p>
@@ -51,8 +51,9 @@
 <p><strong>Warning</strong>&nbsp;The last argument is the&nbsp;<code>bundle-id</code>&nbsp;and is required.</p>
 <blockquote>
 <div class="highlight sh">
-<div class="line"><span class="source shell">rigel-app native&nbsp;example-app&nbsp;com.example.app</span></div>
+<div class="line"><span class="source shell">libra-app native&nbsp;example-app&nbsp;com.example.app theta</span></div>
 </div>
+
 </blockquote>
 <blockquote>
 <p><strong>&nbsp;</strong></p>
